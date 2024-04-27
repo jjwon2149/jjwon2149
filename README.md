@@ -7,7 +7,8 @@
 
 <img  src="https://github-readme-stats.vercel.app/api?username=jjwon2149&show_icons=true&hide_border=true&theme=highcontrast" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=jjwon2149&theme=highcontrast" width="48%" >
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjwon2149&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjwon2149&layout=compact)
 
 <!-- <p align="center"> 
 <img src="https://github.com/jjwon2149/jjwon2149/blob/main/github-metrics.svg" alt="Metrics" align="center" width="70%">
