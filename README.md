@@ -10,6 +10,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjwon2149&layout=compact)
 
+<img src="https://img.shields.io/badge/iOS-ffffff?style=flat-square&logo=iOS&logoColor=000000"/></a> 
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=FFFFFF"/></a> 
+<img src="https://img.shields.io/badge/SwiftUI-0078D4?style=flat-square&logo=Swift&logoColor=FFFFFF"/></a> 
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=FFFFFF"/></a> 
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=FFFFFF"/></a> 
 <!-- <p align="center"> 
 <img src="https://github.com/jjwon2149/jjwon2149/blob/main/github-metrics.svg" alt="Metrics" align="center" width="70%">
 </p>
