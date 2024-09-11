@@ -16,11 +16,11 @@
 ### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/iOS-ffffff?style=flat-square&logo=iOS&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/SwiftUI-0078D4?style=flat-square&logo=Swift&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/iOS-ffffff?style=flat-square&logo=iOS&logoColor=000000" height="30"/>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=FFFFFF" height="30"/>
+  <img src="https://img.shields.io/badge/SwiftUI-0078D4?style=flat-square&logo=Swift&logoColor=FFFFFF" height="30"/>
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=FFFFFF" height="30"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=FFFFFF" height="30"/>
 </p>
 
 ---
