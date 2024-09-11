@@ -7,8 +7,8 @@
 ### 🏆 Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jjwon2149&show_icons=true&hide_border=true&theme=highcontrast" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jjwon2149&theme=highcontrast" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jjwon2149&show_icons=true&hide_border=true&theme=highcontrast" width="70%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jjwon2149&theme=highcontrast" width="70%" />
 </p>
 
 ---
