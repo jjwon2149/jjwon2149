@@ -3,7 +3,7 @@
 <h2 align="center">👋 Hello Developers! I'm jongwon 👋</h2>
 
 ---
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter"/></a>                        
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjjwon2149&count_bg=%2379C83D&title_bg=%23555555&icon=swift.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>                    
 ### 🏆 Github Stats
 
 <p align="center">
