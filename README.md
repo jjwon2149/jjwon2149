@@ -27,7 +27,6 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=FFFFFF" height="20"/>
   <img src="https://img.shields.io/badge/Combine-F05138?style=flat-square&logo=Swift&logoColor=FFFFFF" height="20"/>
   <img src="https://img.shields.io/badge/Alamofire-1D8FE1?style=flat-square&logo=Alamofire&logoColor=FFFFFF" height="20"/>
-  <img src="https://img.shields.io/badge/TestFlight-0079C1?style=flat-square&logo=TestFlight&logoColor=FFFFFF" height="20"/>
   <img src="https://img.shields.io/badge/Crashlytics-4254C4?style=flat-square&logo=Crashlytics&logoColor=FFFFFF" height="20"/>
 <!-- 
 <p align="center"> 
