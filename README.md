@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/SwiftUI-0078D4?style=flat-square&logo=Swift&logoColor=FFFFFF" height="20"/>
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=FFFFFF" height="20"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=FFFFFF" height="20"/>
----
 
 <!-- 
 <p align="center"> 
