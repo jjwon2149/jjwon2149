@@ -37,3 +37,7 @@
   <img src="https://profile-counter.glitch.me/jjwon2149/count.svg" alt="Visitor Count" align="center" /> 
 </p>
 -->
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/jjwon2149?pet-id=1" width="1000" height="120"/>
+</a>
