@@ -18,16 +18,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/iOS-ffffff?style=flat-square&logo=iOS&logoColor=000000" height="20"/>
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=FFFFFF" height="20"/>
-  <img src="https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=UIKit&logoColor=FFFFFF" height="20"/>
-  <img src="https://img.shields.io/badge/SwiftUI-0078D4?style=flat-square&logo=Swift&logoColor=FFFFFF" height="20"/>
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=FFFFFF" height="20"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=FFFFFF" height="20"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=FFFFFF" height="20"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=FFFFFF" height="20"/>
-  <img src="https://img.shields.io/badge/CoreData-1572B6?style=flat-square&logo=CoreData&logoColor=FFFFFF" height="20"/>
-  <img src="https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=Realm&logoColor=FFFFFF" height="20"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=FFFFFF" height="20"/>
-  <img src="https://img.shields.io/badge/Combine-F05138?style=flat-square&logo=Swift&logoColor=FFFFFF" height="20"/>
-  <img src="https://img.shields.io/badge/Alamofire-1D8FE1?style=flat-square&logo=Alamofire&logoColor=FFFFFF" height="20"/>
-  <img src="https://img.shields.io/badge/Crashlytics-4254C4?style=flat-square&logo=Crashlytics&logoColor=FFFFFF" height="20"/>
 <!-- 
 <p align="center"> 
   <img src="https://github.com/jjwon2149/jjwon2149/blob/main/github-metrics.svg" alt="Metrics" width="70%">
