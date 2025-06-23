@@ -3,7 +3,7 @@
 <h2 align="center">👋 Hello Developers! I'm jongwon 👋</h2>
 
 ---
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jjwon2149&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)
+![Profile Views](https://komarev.com/ghpvc/?username=USERNAME)
 
 ### 🏆 Github Stats
 
