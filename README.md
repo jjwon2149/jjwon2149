@@ -3,7 +3,7 @@
 <h2 align="center">👋 Hello Developers! I'm jongwon 👋</h2>
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=USERNAME)
+![Profile Views](https://komarev.com/ghpvc/?username=jjwon2149)
 
 ### 🏆 Github Stats
 
