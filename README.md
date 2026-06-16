@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Jongwon%20Smith&fontSize=45&animation=twinkling&fontAlignY=38&desc=iOS%20Developer%20%7C%20SwiftUI%20%7C%20Flutter&descAlignY=58&descSize=18)
 
-<h3 align="center">안녕하세요, SwiftUI로 사용자 경험을 만드는 iOS 개발자 Jongwon입니다.</h3>
+<h3 align="center">안녕하세요, 사용자 경험을 만드는 iOS 개발자 Jongwon입니다.</h3>
 
 <p align="center">
   <a href="https://simth999wrld.tistory.com/">
